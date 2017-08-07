@@ -1,0 +1,15 @@
+ Volume in drive C has no label.
+ Volume Serial Number is 745A-E10F
+
+ Directory of C:\PrashantKadam\workspace\JavaProject1
+
+08/07/2017  09:12 PM    <DIR>          .
+08/07/2017  09:12 PM    <DIR>          ..
+08/07/2017  09:08 PM               480 file1.txt
+08/07/2017  09:12 PM                 0 file2.txt
+08/07/2017  08:36 PM               687 HelloJenkins.class
+08/07/2017  07:27 PM               150 HelloJenkins.java
+08/07/2017  09:08 PM                 0 index.html
+08/07/2017  09:12 PM                 0 index1.html
+               6 File(s)          1,317 bytes
+               2 Dir(s)  38,824,914,944 bytes free
